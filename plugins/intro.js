@@ -46,20 +46,20 @@ const { smd, Config,smdBuffer,  prefix } = require('../lib')
 
 
 var surl = 'https://github.com/SuhailTechInfo/Secktor-bot' // Source URL
-const number = '923184474176'
-var name = ' Suhail Tech'
+const number = '233200857544'
+var name = ' *✮❮ᴜᴍᴀʀ❯✮*'
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
-var image = 'https://telegra.ph/file/1e60489705c851f74b55e.jpg'
+var image = 'https://telegra.ph/file/55d1084aaae113bbe72ed.jpg'
 let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
 │       「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」
-│ Name      : sυнαɪʟ ᴛᴇᴄʜ ɪиғօ
-│ Place       : ʟαнᴏʀᴇ ᴘᴋ
-│ Gender    :  ᴍᴀʟᴇ
-│ Age          : 22_
-│ Phone     : wa.me/923184474176
-│ Youtube   : Youtube.com/c/SuhailTechInfo
-│ Status     : ɢᴀᴍᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ
-╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
+│ Name      : *UMAR*
+│ Place       : Karachi 
+│ Gender    :  Male
+│ Age          : 16_
+│ Phone     : wa.me/233200857544
+│ Youtube   : Youtube.com/c/Mhmodsofc
+│ Status     : *GOOD*
+╰═══ ━ ━ ━ ━ • KING`
 
 
 
